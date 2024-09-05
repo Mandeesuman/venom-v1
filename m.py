@@ -358,7 +358,7 @@ def show_help(message):
 💥 /admincmd : Shows All Admin Commands.
 
 Buy From :- @HunterXbgmi
-Official Channel :- https://t.me/V3NOM_CH3AT
+Official Channel :- @HunterXbgmi Soon
 '''
     for handler in bot.message_handlers:
         if hasattr(handler, 'commands'):
@@ -400,9 +400,9 @@ Vip 🌟 :
 -> Concurrents Attack : 5
 
 Pr-ice List💸 :
-Day-->80 Rs
-Week-->400 Rs
-Month-->1000 Rs
+Day-->120 Rs
+Week-->500 Rs
+Month-->1200 Rs
 '''
     bot.reply_to(message, response)
 
